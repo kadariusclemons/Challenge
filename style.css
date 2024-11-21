@@ -11,10 +11,10 @@ h1 {
 }
 
 .custom-link {
-    color: #007BFF; /* Set the color of the link */
-    text-decoration: none; /* Remove underline */
+    color: #007BFF;
+    text-decoration: none;
 }
 
 .custom-link:hover {
-    text-decoration: underline; /* Underline on hover */
+    text-decoration: underline;
 }
